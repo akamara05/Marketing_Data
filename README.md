@@ -3,16 +3,16 @@
 
 ### Data Dictionary 
 
-|Variable||Data Type||Description|
-|--------||---------||-----------|
-|Month ||*object*||Months from July 2019 to April 2021|
-|State ||*object*||All 8 States in Australia|
-|Brand||*integer*||Brand|
-|Customers||*integer*||The number of customers betting|
-|Value||*integer*||The amount of money those customers bet with|
-|Age Group||*integer*||Ages 18 years and above|
-|Gender||*object*||Gender|
-|VIP Band||*object*||Customer segments in groups from A to E|
+|Variable|Data Type|Description|
+|--------|---------|-----------|
+|Month |*object*|Months from July 2019 to April 2021|
+|State |*object*|All 8 States in Australia|
+|Brand|*integer*|Brand|
+|Customers|*integer*|The number of customers betting|
+|Value|*integer*|The amount of money those customers bet with|
+|Age Group|*integer*|Ages 18 years and above|
+|Gender|*object*|Gender|
+|VIP Band|*object*|Customer segments in groups from A to E|
 
 
 ## Overview 
